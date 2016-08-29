@@ -1,0 +1,8 @@
+#to install mewtwo "sudo ./install"
+
+echo "installing mewtwo"
+chmod +x mewtwo
+cp mewtwo /usr/bin/
+
+echo " installation completed "
+echo " 	launch it by typing ---> mewtwo"
